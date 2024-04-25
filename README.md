@@ -28,7 +28,7 @@ I'm a budding Full-stack developer.
 
 ## 🗂️ Highlight Projects
 
-- [Filmoteka](https://kyzym.github.io/this-team/)
+- [Filmoteka](https://viacheslav-tykhovlis.github.io/filmoteka/)
 - [Petly-Site](https://petly-site-go.netlify.app/)
 
 ## 👦 About Me
